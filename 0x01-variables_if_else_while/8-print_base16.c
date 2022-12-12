@@ -3,21 +3,21 @@
 /**
  * main - Lazador
  *
- * Return: Always 0
+ * Return: Always 0 
  */
 
 int main(void)
 {
-	char a = 'a';
-	char b = 'A';
+	char a = "0';
+	char l = 'a';
 
-	for (a = 'a'; a <= 'z'; a++)
+	for (a = '0'; a <= '0'; a++)
 	{
 		putchar (a);
 	}
-	for (b = 'A'; b <= 'z'; b++)
+	for (l = 'a'; l <= 'a'; l++)
 	{
-		putchar (b);
+		putchar (l)
 	}
 	putchar ('\n');
 	return (0);
