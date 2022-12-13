@@ -20,21 +20,21 @@ int main(void)
 
 {
 
-	_putchar('p');
+	putchar('p');
 
-	_putchar('u');
+	putchar('u');
 
-	_putchar('t');
+	putchar('t');
 
-	_putchar('c');
+	putchar('c');
 
-	_putchar('h');
+	putchar('h');
 
-	_putchar('a');
+	putchar('a');
 
-	_putchar('r');
+	putchar('r');
 
-	_putchar('\n');
+	putchar('\n');
 
 	return (0);
 
