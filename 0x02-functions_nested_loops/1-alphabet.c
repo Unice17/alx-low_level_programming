@@ -4,12 +4,8 @@
 
 /**
  *
- * print_alphabet - print all the letters in the alphabet
- *
- * 
- *
+ * print_alphabet - print all the letters in the alphabet in lowercase
  * Return: Always 0.
- *
  */
 
 void print_alphabet(void)
@@ -23,10 +19,10 @@ void print_alphabet(void)
 
 	{
 
-		putchar(i);
+		_putchar(i);
 
 	}
 
-	putchar('\n');
+	_putchar('\n');
 
 }
