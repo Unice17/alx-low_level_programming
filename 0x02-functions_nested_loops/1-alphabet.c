@@ -4,7 +4,7 @@
 
 /**
  *
- * main - check the code
+ * print_alphabet - print all the letters in the alphabet
  *
  * 
  *
