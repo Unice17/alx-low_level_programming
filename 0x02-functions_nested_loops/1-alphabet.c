@@ -4,15 +4,19 @@
 
 /**
  *
- *  * main - check the code
+ * main - check the code
  *
- *   *
+ * 
  *
- *    * Return: Always 0.
+ * Return: Always 0.
  *
- *     */
+ */
 
 int main(void)
+{
+	print alphabet();
+	return (0);
+}
 
 {
 
@@ -23,10 +27,10 @@ int main(void)
 
 	{
 
-		_putchar(i);
+		putchar(i);
 
 	}
 
-	_putchar('\n');
+	putchar('\n');
 
 }
