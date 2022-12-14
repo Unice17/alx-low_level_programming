@@ -12,11 +12,7 @@
  *
  */
 
-int main(void)
-{
-	print alphabet();
-	return (0);
-}
+void print_alphabet(void)
 
 {
 
