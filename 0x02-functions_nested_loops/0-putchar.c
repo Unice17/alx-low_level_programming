@@ -4,21 +4,23 @@
 
 /**
  *
- * * main - Lanzador
+ * main - Lanzador
  *
- * *
+ * 
  *
- * * Return: Always 0
+ * Return: Always 0
  *
- * *
+ * 
  *
- * */
+ */
 
 
 
 int main(void)
 
 {
+
+	putchar('_')
 
 	putchar('p');
 
